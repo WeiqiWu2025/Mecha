@@ -6,6 +6,8 @@ This repository contains the reproduction code for the Paper "Exploiting subcarr
 
 Developed by Weiqi Wu et al. (weiqiwu@ustc.edu.cn), Copyright © 2025 Weiqi Wu et al.
 
+# License
+
 This project is for academic and research use only. Commercial use is prohibited.
 
 # Modification
