@@ -33,3 +33,15 @@ If you decide to use this code for academic issues, please support us by citing 
   publisher={Elsevier}
 }
 
+[3] Wu W, Gong W. Concurrent WiFi backscatter communication using a single receiver in IoT networks[J]. Computer Networks, 2025, 258: 111029.
+
+@article{wu2025concurrent,
+  title={Concurrent WiFi backscatter communication using a single receiver in IoT networks},
+  author={Wu, Weiqi and Gong, Wei},
+  journal={Computer Networks},
+  volume={258},
+  pages={111029},
+  year={2025},
+  publisher={Elsevier}
+}
+
